@@ -11,8 +11,7 @@ h2{
 }
 p{
     font-family: 'Noticia Text', serif;
-    font-size: 16;
-    font-weight: normal; 
+    font-size: 14px;
     margin: 0;
 }
 .title-img{
@@ -53,6 +52,10 @@ p{
     left: 30%;
 }
 
+/* .product-details */
+.product-details{
+    font-size: 12px;
+}
 /* product defination  */
 
 .product-border{
