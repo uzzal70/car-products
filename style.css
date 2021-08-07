@@ -1,7 +1,8 @@
 /* used by two font style
 font-family: 'Bebas Neue', cursive;
 font-family: 'Noticia Text', serif; */
-/* common sytle  */
+
+/* common sytle Start */
 h2{
     font-family: 'Bebas Neue', cursive;
     font-size: 30px;
@@ -14,6 +15,8 @@ p{
     font-size: 14px;
     margin: 0;
 }
+/* common sytle End */
+/* header area Start */
 .title-img{
     background-image: url(images/6041e89c4aa92704449700.png);
     background-repeat: no-repeat;
@@ -51,6 +54,7 @@ p{
     bottom: -14px;
     left: 30%;
 }
+/* header area End  */
 
 /* .product-details */
 .product-details{
@@ -62,11 +66,7 @@ p{
     /* border: 2px solid gray;
     border-right: 0; */
     box-shadow: 0px 0px 5px 1px rgb(199, 198, 198);
-
 }
-
 .shadow-box{
     box-shadow: 0px 0px 10px 3px rgb(199, 198, 198);
-
-
 }
